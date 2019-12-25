@@ -1,0 +1,16 @@
+{
+    "workbench.colorTheme": "Night Owl",
+    "explorer.confirmDragAndDrop": false,
+    "explorer.confirmDelete": false,
+    "editor.insertSpaces": false,
+    "editor.renderWhitespace": "all",
+    "files.trimTrailingWhitespace": true,
+    "files.insertFinalNewline": true,
+    "editor.tabSize": 4,
+    "editor.minimap.enabled": false,
+    "editor.renderLineHighlight": "none",
+    "editor.cursorBlinking": "solid",
+    // When opening a file, `editor.tabSize` and `editor.insertSpaces` will be detected based on the file contents.
+    "editor.detectIndentation": true,
+    "files.autoSave": "onFocusChange"
+}

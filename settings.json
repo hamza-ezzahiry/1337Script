@@ -10,7 +10,14 @@
     "editor.minimap.enabled": false,
     "editor.renderLineHighlight": "none",
     "editor.cursorBlinking": "solid",
-    // When opening a file, `editor.tabSize` and `editor.insertSpaces` will be detected based on the file contents.
     "editor.detectIndentation": true,
-    "files.autoSave": "onFocusChange"
+    "files.autoSave": "onFocusChange",
+    "extensions.installed":
+    {
+      "eamodio.gitlens": true,
+      "coenraads.bracket-pair-colorizer":true,
+      "ms-vscode.cpptools": true,
+      "ms-python.python": true,
+      "visualstudioexptteam.vscodeintellicode" : true
+    }
 }

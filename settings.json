@@ -9,7 +9,7 @@
     "editor.tabSize": 4,
     "editor.minimap.enabled": false,
     "editor.renderLineHighlight": "none",
-    "editor.rulers": [80,120],
+    "editor.rulers": [80],
     "editor.cursorBlinking": "solid",
     "editor.detectIndentation": true,
     "files.autoSave": "onFocusChange",

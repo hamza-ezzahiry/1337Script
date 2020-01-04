@@ -9,6 +9,7 @@
     "editor.tabSize": 4,
     "editor.minimap.enabled": false,
     "editor.renderLineHighlight": "none",
+    "editor.rulers": [80,120],
     "editor.cursorBlinking": "solid",
     "editor.detectIndentation": true,
     "files.autoSave": "onFocusChange",
@@ -19,5 +20,7 @@
       "ms-vscode.cpptools": true,
       "ms-python.python": true,
       "visualstudioexptteam.vscodeintellicode" : true
-    }
+    },
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue"
 }

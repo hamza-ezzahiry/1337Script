@@ -14,3 +14,5 @@ killall Dock;
 defaults write com.apple.screensaver askForPassword -int 0
 defaults write com.apple.screensaver askForPasswordDelay -int 0
 defaults write -g com.apple.mouse.scaling 3
+
+cp ./settings.json ~/Library/Application\ Support/Code/User/settings.json

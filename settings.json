@@ -1,5 +1,9 @@
 {
     "workbench.colorTheme": "Night Owl",
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "42header.email": "hamza.ezzahiry@gmail.com",
+    "window.zoomLevel": 0,
     "explorer.confirmDragAndDrop": false,
     "explorer.confirmDelete": false,
     "editor.insertSpaces": false,
@@ -15,12 +19,10 @@
     "files.autoSave": "onFocusChange",
     "extensions.installed":
     {
-      "eamodio.gitlens": true,
-      "coenraads.bracket-pair-colorizer":true,
-      "ms-vscode.cpptools": true,
-      "ms-python.python": true,
-      "visualstudioexptteam.vscodeintellicode" : true
+    "eamodio.gitlens": true,
+    "coenraads.bracket-pair-colorizer":true,
+    "ms-vscode.cpptools": true,
+    "ms-python.python": true,
+    "visualstudioexptteam.vscodeintellicode" : true
     },
-    "editor.suggestSelection": "first",
-    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue"
 }

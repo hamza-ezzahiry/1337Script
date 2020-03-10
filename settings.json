@@ -25,4 +25,5 @@
     "ms-python.python": true,
     "visualstudioexptteam.vscodeintellicode" : true
     },
+    "workbench.editor.enablePreview": false,
 }
